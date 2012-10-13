@@ -31,7 +31,7 @@ int main(int argc, const char * argv[])
     return 0;
 }
 
-//  Для отладки.
+//  Для отладки. ping
 //  Печатает в двичном представлении в обратном направлении.
 int printbinary(unsigned int a){
     for (int i=0; i < ((sizeof(a)*CHAR_BIT)); i++){
