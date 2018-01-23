@@ -34,7 +34,6 @@
 
         $ cat file.txt | docker run -i int-null-even
 
-
 ## Запуск (без Docker)
 
 1. Скомпилировать:
